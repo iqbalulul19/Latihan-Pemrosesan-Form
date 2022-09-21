@@ -1,0 +1,9 @@
+.container
+{
+    position: relative;
+    width: 500px;
+    height: 600px ;
+    min-height: 350px;
+    background-color:rgba(249, 253, 253, 0.952) ;
+    box-shadow: 0 10px 15px rgba(0,0,1) ;
+}
